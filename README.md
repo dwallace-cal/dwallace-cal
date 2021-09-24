@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dwallace-cal
-- 👀 I’m interested in DAO/ blockchain
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on smart contracts and data analysis
+- 👀 I’m interested in DAOs and blockchain
+- 🌱 I’m currently learning solidity and java
+- 💞️ I’m looking to collaborate on smart contracts, data analysis and DAOs
 - 📫 How to reach me dustinwallace@berkeley.edu
 
 <!---
